@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download now</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .download-section {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .download-btn {
+            display: inline-block;
+            background-color: #3498db;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            margin: 10px 0;
+            transition: background-color 0.3s;
+        }
+        .download-btn:hover {
+            background-color: #2980b9;
+        }
+        .features {
+            margin: 30px 0;
+        }
+        .feature {
+            margin-bottom: 15px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GenerationST</h1>
+        <p>Инновационный продукт для бизнес-решений (ранний доступ)</p>
+    </header>
+
+    <div class="download-section">
+        <h2>Скачайте раннюю версию</h2>
+        <p>Версия: 1.0.0</p>
+        <p>Размер: 29.5 MB</p>
+        <a href="GenerationST.rar" class="download-btn">Download now</a>
+        <p>Поддержка ОС: Windows 10/11</p>
+    </div>
+
+    <div class="features">
+        <h2>Основные возможности</h2>
+        <div class="feature">
+            <h3>Современный дизайн</h3>
+            <p>Интуитивно-простой интерфейс.</p>
+        </div>
+        <div class="feature">
+            <h3>Краткие описание возможностей</h3>
+            <p>Рандомизация стилизации текста</p>
+            <p>Замена ключевых слов</p>
+            <p>Работа с большими объемами текста</p>
+            
+        </div>
+        <div class="feature">
+            <h3>Безопасность</h3>
+            <p>Программа не собирает ваши персональные данные.</p>
+        </div>
+    </div>
+
+    <div class="installation">
+        <h2>Инструкция по использованию</h2>
+        <ol>
+            <li>Скачайте программу</li>
+            <li>Расспауйте архив в любую папку (пароль:1337)</li>
+            <li>Запустите файл "GenerationST.exe" (для Windows)</li>
+            <li>Следуйте подсказкам программы</li>
+        </ol>
+    </div>
+
+    <footer>
+        <p>© 2023 GST. Все права защищены.</p>
+        <p>Тех.Поддержка: <a href="https://chat.deepseek.com">support@chat.deepseek.com</a></p>
+    </footer>
+</body>
+</html>
